@@ -9,4 +9,4 @@ Tools:
     webBrute - Website directory brute force tool, use with or without an extension.  
     hashDB - Since MD5 encryption is irreversible, the MD5 Database enables you to store plain text strings & their equivalent hashed string for fast offline search. You can also hash a full wordlist & update it into the database. The database already includes the top-10000 wordlist.  
 
-I intend to add more hash types in future updates.  
+I intend to add more hash types & brute force tools in future updates.  
