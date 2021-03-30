@@ -2,7 +2,7 @@
 
 Hash Cracker, Web Directory Brute Forcer & md5 Database.  
 
-BrutoNova is a multitool designed for password cracking & brute force. Usage is self explanatory.  
+BrutoNova is a multi-tool designed for password cracking & brute force. Usage is self explanatory.  
 
 Tools:  
 1. hashCrack
