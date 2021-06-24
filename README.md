@@ -15,7 +15,7 @@ python3 brutoNova.py
 * Use online & local wordlists  
 * Crack SHA1, SHA224, SHA256, SHA384, SHA512, SHA3-224, SHA3-256, SHA3-384 & SHA3-512 hashes  
 * Fast offline search
-* Quickly hash full wordlists into the data  
+* Quickly hash full wordlists into the database  
   
 # Brute Force
 * Web Directory Brute Force(with or without an extension)  
@@ -28,7 +28,7 @@ python3 brutoNova.py
 * Use the search bar to find a specific database record
 * Toggle between search & full database
   
-The Web UI is not fully finished but is complete enough to be usable with BrutoNova as it currently is. The Web Interface files, including database file, will be moved to /var/www/html/ during setup & can be opened in the browser simply by running the server using...
+The Web UI is not fully finished but is complete enough to be usable with BrutoNova as it currently is. The Web UI files, including database file, will be moved to /var/www/html/ during setup & can be opened in the browser simply by running the server using...
 ```
 ./server.py
 ```
