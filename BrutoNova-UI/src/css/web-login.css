@@ -1,0 +1,218 @@
+body, html {
+	margin:0;
+	width:100%;
+	height:100%;
+	background-color:#222;
+	font-weight:bold;
+}
+
+#header {
+	float:left;
+	position:relative;
+	margin:0;
+	width:100%;
+	height:3.5rem;
+	border:none;
+	background-color:#000;
+}
+
+#logo {
+	float:center;
+	position:relative;
+	margin:0;
+	width:auto;
+	height:100%;
+	background:none;
+	color:cyan;
+	text-shadow:0 0 8px red, 0 0 4px cyan;
+	border:none;
+	padding:0.75%;
+	text-align:center;
+	user-select:none;
+}
+
+a {
+	float:center;
+	position:relative;
+	margin:0 auto;
+	width:25%;
+	height:3.5rem;
+	background:none;
+	color:cyan;
+	text-shadow:0 0 8px red, 0 0 4px cyan;
+	border:none;
+	cursor:pointer;
+	text-decoration:none;
+	padding:1%;
+}
+
+a:hover {
+	color:red;
+	text-shadow:0 0 8px cyan, 0 0 4px red;
+}
+
+button {
+	float:center;
+	position:relative;
+	margin:0 auto;
+	width:19.5%;
+	height:2.5rem;
+	background:none;
+	color:cyan;
+	text-shadow:0 0 8px red, 0 0 4px cyan;
+	border:none;
+	cursor:pointer;
+}
+
+button:hover {
+	color:red;
+	text-shadow:0 0 8px cyan, 0 0 4px red;
+}
+
+#buttonPanel {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	margin-top:1.25%;
+	margin-left:4%;
+	width:92%;
+	height:2.75rem;
+	border:1%;
+	border-style:solid;
+	border-color:#222;
+}
+
+#webContent {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	margin-left:4%;
+	width:91.575%;
+	height:31rem;
+	border:1%;
+	border-style:solid;
+	border-color:#222;
+	overflow:auto;
+	overflow-y:none;
+	
+}
+
+table {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	width:100%;
+	height:100%;
+	border:none;
+}
+
+th {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	height:10%;
+	color:cyan;
+	text-align:left;
+	padding:0.5%;
+	user-select:none;
+}
+
+tr {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	width:665%;
+	height:10%;
+	text-align:left;
+}
+
+td {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	height:7.5%;
+	color:#ddd;
+	border:1%;
+	border-style:solid;
+	border-color:cyan;
+	text-align:left;
+	padding:0.5%;
+}
+
+.webToggle {
+	float:right;
+	position:relative;
+	margin:0 auto;
+	background:none;
+	border:1%;
+	border-style:solid;
+	border-color:#222;
+	width:7.5%;
+	height:2.5%;
+}
+
+#viewWEBDBBtn {
+	display:block;
+	margin-top:0.25%;
+	margin-right:3.5%;
+}
+
+#searchWEBBtn {
+	display:none;
+	margin-top:0.25%;
+	margin-right:2.375%;
+}
+
+::placeholder {
+	color:#fff;
+}
+
+#searchWEB {
+	display:block;
+	float:left;
+	position:relative;
+	margin:0 auto;
+	width:100%;
+	height:75%;
+	border:none;
+}
+
+#webinput {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	margin-top:1.5rem;
+	margin-left:19.5%;
+	width:60%;
+	height:2.5rem;
+	background:none;
+	color:#fff;
+	border:1%;
+	border-style:solid;
+	border-color:cyan;
+	padding:0.5%;
+	font-weight:bold;
+	outline:none;
+	font-size:140%;
+}
+
+#submitWEBBtn {
+	float:left;
+	position:relative;
+	margin:0 auto;
+	margin-top:2rem;
+	margin-left:30%;
+	width:40%;
+	height:3rem;
+	background:none;
+	color:cyan;
+	text-shadow:0 0 8px red, 0 0 4px cyan;
+	border:none;
+	font-weight:bold;
+	outline:none;
+	font-size:140%;
+}
+
+#webTable {
+	display:none;
+}
