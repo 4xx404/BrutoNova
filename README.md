@@ -18,12 +18,12 @@ python3 brutoNova.py
 * Quickly hash full wordlists into the database  
   
 # Brute Force
+**Positive Brute Force credentials are automatically added to database**
 * Web Directory Brute Force(with or without an extension)  
 * FTP Server Brute Force
 * SSH Brute Force(Coming soon)
 * Web Login Brute Force(Coming soon)
-* Positive Brute Force credentials are automatically added to database
-  
+
 # Web UI
 * Use the search bar to find a specific database record
 * Toggle between search & full database
